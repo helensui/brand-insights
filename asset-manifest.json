@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/brand-insights/static/js/main.0b00c2d8.chunk.js",
+    "main.js.map": "/brand-insights/static/js/main.0b00c2d8.chunk.js.map",
+    "runtime~main.js": "/brand-insights/static/js/runtime~main.6164cb62.js",
+    "runtime~main.js.map": "/brand-insights/static/js/runtime~main.6164cb62.js.map",
+    "static/js/2.04a506a1.chunk.js": "/brand-insights/static/js/2.04a506a1.chunk.js",
+    "static/js/2.04a506a1.chunk.js.map": "/brand-insights/static/js/2.04a506a1.chunk.js.map",
+    "index.html": "/brand-insights/index.html",
+    "precache-manifest.0f080c684ce363ee6825b2686c868d2b.js": "/brand-insights/precache-manifest.0f080c684ce363ee6825b2686c868d2b.js",
+    "service-worker.js": "/brand-insights/service-worker.js"
+  }
+}
